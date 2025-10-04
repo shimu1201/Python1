@@ -1,0 +1,8 @@
+num1 = int((input("Enter Num 1: "))) 
+num2 = int((input("Enter Num 2: "))) 
+print(f"Number 1 = {num1}, Number 2 = {num2}") 
+print(f"Addition: {num1 + num2}") 
+print(f"Substraction: {num1 - num2}") 
+print(f"Multiplication : {num1 * num2}") 
+print(f"Division: {num1 / num2}") 
+print(f"Modulo: {num1 % num2}") 

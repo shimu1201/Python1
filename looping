@@ -1,0 +1,15 @@
+"""
+Looping Concept :
+    There are mainly 2 types of looping statement
+
+    1) for loop
+    2) while loop
+
+1) for loop : for loop is an sequence controlled loop.
+    which is execute no. of times.
+
+    syntax : 
+
+    for var in sequence:
+        statement
+"""

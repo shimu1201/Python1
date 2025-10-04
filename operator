@@ -1,0 +1,36 @@
+"""
+Operator : to perform some specific operations at that time
+            we use some specific symbols it is called operator
+
+e.g. 
+
+a + b // here, a and b are operands, + is an operator
+
+1) Arithmetic Operator :
+
++, -, *, /, %, //(floor division) & **(exponentation)
+
+2) Relational Operator :
+
+>, <, >=, <=, == & !=
+
+3) Logical Operator :
+
+and, or & not
+
+4) Assignment Operator :
+
+    = 
+
+    shorthand operator : combination of arithmetic and assignment operator
+
+    +=, -=, /=, *=, %=, //= & **=
+
+5) Membership Operator :
+
+in & not in
+
+6) Identity Operator :
+
+is & is not
+"""

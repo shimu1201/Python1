@@ -1,0 +1,43 @@
+What is language : A way to communicate
+
+Programing Language :
+
+-----------------------
+
+What is Program : Collection of code or instruction
+
+Programing language : A language which is used to write a program.
+
+C language, C++ language, Java, Python....
+
+=====================================
+
+Computer understand only 0 and 1 - Binary Language`
+
+Compiler or interpreter
+
+Compiler convert whole source after completion of code
+
+Interpreter - line by line executation
+
+========================================
+
+Python : Python is a higher level, most popular, easy to understand, object oriented, interpreted, 
+	clean and clear syntax, open source programing language.
+
+Why did you choose python???
+
+	Python is most powerful programing language. We can build web application, mobile application, games,
+	we can use python in machine learning, AI, IOT, Robotics, DA, Automation and cyber security.
+
+There are 2 versions are available
+
+	python 2 and python 3
+
+To check python is installed or not:
+
+	Open Command Prompt
+
+ 	# python --version
+
+	- (Hyphen)
